@@ -1,5 +1,5 @@
 from email.message import EmailMessage
-import ssl 
+import ssl  
 import smtplib
 import tkinter as tk
 from tkinter import messagebox
