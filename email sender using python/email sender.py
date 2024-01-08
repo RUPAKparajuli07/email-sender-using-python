@@ -11,7 +11,7 @@ def send_email():
 
     subject = subject_entry.get()
     body = body_entry.get("1.0", tk.END)
-
+ 
 # replace your detail
 
     em = EmailMessage()
