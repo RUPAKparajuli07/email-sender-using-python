@@ -3,7 +3,7 @@ import ssl
 import smtplib
 import tkinter as tk
 from tkinter import messagebox 
- 
+  
 def send_email():  
     email_sender = from_entry.get() 
     email_reciver = to_entry.get()
