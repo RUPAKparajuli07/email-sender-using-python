@@ -5,7 +5,7 @@ import tkinter as tk
 from tkinter import messagebox 
   
 def send_email():  
-    email_sender = from_entry.get() 
+    email_sender = from_entry.get()  
     email_reciver = to_entry.get()
     email_password = 'your_application_specific_password'  # Replace with your application-specific password
 
