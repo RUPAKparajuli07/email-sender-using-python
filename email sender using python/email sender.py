@@ -1,4 +1,4 @@
- from email.message import EmailMessage
+from email.message import EmailMessage
 import ssl  
 import smtplib
 import tkinter as tk
