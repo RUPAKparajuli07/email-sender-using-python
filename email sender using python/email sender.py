@@ -10,7 +10,7 @@ def send_email():
     email_password = 'your_application_specific_password'  # Replace with your application-specific password
 
     subject = subject_entry.get()  
-    body = body_entry.get("1.0", tk.END) 
+    body = body_entry.get("1.0", tk.END)
  
 # replace your detail
 
