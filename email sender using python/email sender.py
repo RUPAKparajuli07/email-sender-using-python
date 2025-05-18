@@ -1,3 +1,4 @@
+#Install Gui and run the code
 from email.message import EmailMessage
 import ssl  
 import smtplib
