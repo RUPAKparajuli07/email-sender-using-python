@@ -65,6 +65,3 @@ send_button.pack(pady=10)
 
 # Run the GUI
 window.mainloop()
-
-
-
