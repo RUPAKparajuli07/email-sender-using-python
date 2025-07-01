@@ -1,4 +1,4 @@
-#Install GUI's firstly
+#Install GUI's First
 from email.message import EmailMessage
 import ssl  
 import smtplib
